@@ -250,7 +250,7 @@ if __name__=='__main__':
         #Whats App (Works Kinda)
         elif 'message' in query:
             user_name={
-                'Jarvis':'+1(586)925-7999'
+                'Jarvis':'+1(234)567-8910'
             }
             try:
                 speak('To whom you want to send the whats app message ?')
