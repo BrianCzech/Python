@@ -1,6 +1,6 @@
 import pyshorteners
 
 #link ='URL Link'
-link='https://www.linkedin.com/in/brian-czech-76a120162/'
+link='https://www.espn.com'
 
 print(pyshorteners.Shortener().clckru.short(link))
