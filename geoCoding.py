@@ -10,7 +10,7 @@ def get_location_by_address(address):
     except:
         return get_location_by_address(address)
 
-address='15452 Dominic St'
+address='123 Elm St'
 location=get_location_by_address(address)
 
 pprint(location)
